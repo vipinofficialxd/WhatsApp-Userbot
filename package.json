@@ -1,5 +1,5 @@
 { 
-    "name": "ABHISHEK-SER",
+    "name": "LEGEND-PUSU",
     "version": "0.0.1",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
@@ -25,16 +25,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/AbhishekSuresh2/ABHISHEK-SER",
+    "homepage": "https://github.com/legendadi07/WhatsApp-Userbot",
     "author": {
-        "name": "ABHISHEK SURESH"
+        "name": "LEGEND PUSU"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/AbhishekSuresh2/ABHISHEK-SER.git"
+        "url": "git+https://github.com/legendadi07/WhatsApp-Userbot.git"
     },
     "bugs": {
-        "url": "https://github.com/AbhishekSuresh2/ABHISHEK-SER/issues"
+        "url": "https://github.com/legendadi07/WhatsApp-Userbot/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
@@ -83,14 +83,12 @@
         "translate-google-api": "^1.0.4",
         "xfarr-api": "^1.0.3",
         "hxz-api": "^1.0.1",
-        "yt-search": "^2.10.3", 
         "hispamemes": "^1.0.7",
         "didyoumean": "^1.2.2",
         "fg-ig": "^0.0.2",
         "api-dylux": "^1.2.8",
         "@vitalets/google-translate-api": "^8.0.0",
         "yargs": "^17.6.0",
-        "ytdl-core": "^4.11.2",
          "wa-sticker-formatter": "^4.3.2"
        
     }
