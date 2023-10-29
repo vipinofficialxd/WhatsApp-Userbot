@@ -56,7 +56,7 @@ global.dygp = 'https://chat.whatsapp.com/BOLb0ICGd3fs3621oRBw5VD'
 global.fgsc = 'https://github.com/legendadi07/WhatsApp-Userbot' 
 global.fgyt = 'https://youtube.com/@soft_entertain'
 global.fgpyp = 'https://youtube.com/@soft_entertain'
-global.fglog = 'https://replicate.delivery/pbxt/QbP6Fh3ZXwKON9SCB70ERGwwgeeSbztwKIOIzhUeXFkwnFHiA/out.png' 
+global.fglog = 'https://telegra.ph/file/6022a031205f1eeb1e2aa.jpg' 
 
 //imagen
 global.imagen1 = fs.readFileSync('./src/Abhi.jpg')
