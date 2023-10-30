@@ -1,7 +1,7 @@
 const { Function, getBuffer } = require('../lib/')
 const { generateWAMessage, proto } = require('@adiwajshing/baileys');
-const image = 'https://i.imgur.com/BsyNXqH.jpeg' //MAIN IMAGE URL HERE
-const logo = 'https://i.imgur.com/BsyNXqH.jpeg'
+const image = 'https://telegra.ph/file/7d7e3169e7b59e6f9983f.jpg' //MAIN IMAGE URL HERE
+const logo = 'https://telegra.ph/file/7d7e3169e7b59e6f9983f.jpg'
 
 Function(
 	{
@@ -23,11 +23,11 @@ Function(
         options.linkPreview = {
                renderLargerThumbnail: true,
                showAdAttribution: true,
-               title: "𝔸𝔹ℍ𝕀𝕊ℍ𝔼𝕂 𝕊𝕌ℝ𝔼𝕊ℍ",
+               title: "𝕃𝔼𝔾𝔼ℕ𝔻 ℙ𝕌𝕊𝕌",
                body: "ᴄʟɪᴄᴋ ʜᴇʀᴇ 🦋 !!",
                mediaType: 1,
                thumbnail: thumb,
-               sourceUrl: "http://wa.me/919074692450?text=_៚ʜᴇʟʟᴏ+🪄_"
+               sourceUrl: "http://wa.me/19259488936?text=_៚ʜᴇʟʟᴏ+🪄_"
              }
         // ADDED */ TO REMOVE LINK PREVIEW TYPE
         options.quoted = {
@@ -47,12 +47,12 @@ Function(
         
 let messages = await generateWAMessage(message.jid, { text: `0ཻུ۪۪ꦽꦼ̷⸙‹•══════════════♡᭄
 │       *「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」*
-│ *Name      :* 𝔸𝔹ℍ𝕀𝕊ℍ𝔼𝕂 𝕊𝕌ℝ𝔼𝕊ℍ
-│ *Place       :* 𝙺𝙴𝚁𝙰𝙻𝙰
+│ *Name      :* 𝕃𝔼𝔾𝔼ℕ𝔻 ℙ𝕌𝕊𝕌
+│ *Place       :* INDIA
 │ *Gender   :*  𝙼𝚊𝚕𝚎
-│ *Age          :* 15
-│ *Phone     :* wa.me/919074692450
-│ *IG ID        :* abhishek_ser
+│ *Age          :* 20
+│ *Phone     :* wa.me/19259488936
+│ *IG ID        :* pushkar_arjn
 │ *Status     :* _
 ╰═════ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙`}, {quoted: message.quoted || ''})
 
