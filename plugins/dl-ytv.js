@@ -4,7 +4,7 @@ import os from 'os';
 
 let limit = 500;
 let handler = async (m, { conn, args, isPrems, isOwner, usedPrefix, command }) => {
-  if (!args || !args[0]) throw `📌Example:\n${usedPrefix + command} https://youtu.be/Xb1-Oh1_msQ`;
+  if (!args || !args[0]) throw `📌Example:\n${usedPrefix + command} https://youtu.be/HtvwcJLqxE0?si=kOD1D2AwEl9uAVnh`;
   if (!args[0].match(/youtu/gi)) throw `🎯 Verify That The YouTube Link`;
 
   let chat = global.db.data.chats[m.chat];
@@ -17,7 +17,7 @@ let handler = async (m, { conn, args, isPrems, isOwner, usedPrefix, command }) =
     }
 
     if (format.contentLength / (1024 * 1024) >= limit) {
-      return m.reply(`≡ *ABHU YTDL*\n\n▢ *⚖️Size*: ${format.contentLength / (1024 * 1024).toFixed(2)}MB\n▢ *🎞️Quality*: ${format.qualityLabel}\n\n▢ The File Exceeds The Download Limit *+${limit} MB*`);
+      return m.reply(`≡ *PUSU YTDL*\n\n▢ *⚖️Size*: ${format.contentLength / (1024 * 1024).toFixed(2)}MB\n▢ *🎞️Quality*: ${format.qualityLabel}\n\n▢ The File Exceeds The Download Limit *+${limit} MB*`);
     }
 
     const tmpDir = os.tmpdir();
