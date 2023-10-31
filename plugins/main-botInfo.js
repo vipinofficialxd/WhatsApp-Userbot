@@ -56,7 +56,7 @@ let infobt = `
 ▢ *${chats.length}* Total Chats
 
 *≡ OWNER*
-  *LEGEND PUSU*
+  *𝙻𝙴𝙶𝙴𝙽𝙳-𝙿𝚄𝚂𝚄*
 ▢ Instagram :
   • https://instagram.com/pushkar_arjn
 ▢ Telegram : 
