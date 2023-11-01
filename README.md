@@ -60,7 +60,7 @@ ABHISHEK-SER Multi Device Whatsapp Bot.
 ---
 ### Deploy Mogenius
 
-<a href="https://studio.mogenius.com/studio/cloud-space/cloud-space-overview"><img title="ABHISHEK-SER Deploy Mogenius" src="https://img.shields.io/badge/DEPLOY MOGENIUS-h?color=black&style=for-the-badge&logo=genius"></a>
+<a href="https://studio.mogenius.com/studio/cloud-space/cloud-space-overview"><img title="LEGEND-PUSU Deploy Mogenius" src="https://img.shields.io/badge/DEPLOY MOGENIUS-h?color=black&style=for-the-badge&logo=genius"></a>
 
 ---
 ### Mogenius Tutorial
