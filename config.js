@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['919046563558', 'LEGEND-PUSU', true],
+  ['918695072248', 'LEGEND-PUSU', true],
   [''],
   [''] 
 ] //Number of owners
 
-global.mods = ['919046563558','919046563558'] 
-global.prems = ['919046563558', '919046563558', '919046563558']
+global.mods = ['918695072248','918695072248'] 
+global.prems = ['918695072248', '918695072248', '918695072248']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
