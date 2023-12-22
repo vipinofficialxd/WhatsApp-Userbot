@@ -1,5 +1,5 @@
 { 
-    "name": "LEGEND-PUSU",
+    "name": "LEGEND-AADITYA",
     "version": "0.0.1",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
@@ -25,16 +25,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/legendadi07/WhatsApp-Userbot",
+    "homepage": "https://github.com/onenonlybotz/WhatsApp-Userbot",
     "author": {
-        "name": "LEGEND PUSU"
+        "name": "LEGEND AADITYA"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/legendadi07/WhatsApp-Userbot.git"
+        "url": "git+https://github.com/onenonlybotz/WhatsApp-Userbot.git"
     },
     "bugs": {
-        "url": "https://github.com/legendadi07/WhatsApp-Userbot/issues"
+        "url": "https://github.com/onenonlybotz/WhatsApp-Userbot/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
