@@ -6,7 +6,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
   let mainImg = "https://telegra.ph/file/7d7e3169e7b59e6f9983f.jpg"; // Main image URL
   let smallImg = "https://telegra.ph/file/7d7e3169e7b59e6f9983f.jpg"; // Small image URL
   let smallText = "I'M Alive Now"; // Small text
-  let mainText = "𝙻𝙴𝙶𝙴𝙽𝙳-𝙿𝚄𝚂𝚄"; // Main text
+  let mainText = "LEGEND AADITYA"; // Main text
   let audioUrl = "https://raw.githubusercontent.com/legendadi07/WhatsApp-Userbot/main/src/mp3/Abhi.mp3"; // Audio URL
   // Construct the message
   let con = {
