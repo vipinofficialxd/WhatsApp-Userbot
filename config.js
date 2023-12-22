@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['918695072248', 'LEGEND-PUSU', true],
+  ['919508888129', 'LEGEND-AADITYA', true],
   [''],
   [''] 
 ] //Number of owners
 
-global.mods = ['918695072248','918695072248'] 
-global.prems = ['918695072248', '918695072248', '918695072248']
+global.mods = ['919508888129'] 
+global.prems = ['919508888129']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -47,15 +47,15 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'LEGEND-PUSU'
+global.botname = 'LEGEND-AADITYA'
 global.premium = 'true'
-global.packname = 'LEGEND-ADI-PUSU🌹' 
-global.author = 'LEGEND PUSU' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/pushkar_arjn\n' 
+global.packname = 'LEGEND-AADITYA🌹' 
+global.author = 'LEGEND AADITYA' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/aadityagangster\n' 
 global.dygp = 'https://chat.whatsapp.com/HgO7BNg85Qb59mNGD2WFGd'
-global.fgsc = 'https://github.com/legendadi07/WhatsApp-Userbot' 
-global.fgyt = 'https://youtube.com/@soft_entertain'
-global.fgpyp = 'https://youtube.com/@soft_entertain'
+global.fgsc = 'https://chat.whatsapp.com/EIX0ozZ7Tv24NEX43KKOGW' 
+global.fgyt = 'https://youtube.com/@aadityaff1'
+global.fgpyp = 'https://youtube.com/@aadityaff1'
 global.fglog = 'https://telegra.ph/file/6022a031205f1eeb1e2aa.jpg' 
 
 //imagen
