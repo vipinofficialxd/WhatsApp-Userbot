@@ -1,21 +1,21 @@
 let handler = async m => m.reply(`
 
-≡  *LEGEND-PUSU*   GROUPS
+≡  *LEGEND-AADITYA*   GROUPS
 ▢ Join Public Bot Group And Support
-https://chat.whatsapp.com/FebcyxhK6fB96lTXSaAmv1
+https://chat.whatsapp.com/EIX0ozZ7Tv24NEX43KKOGW
 ─────────────
 ▢ *Owner Telegram*
-https://t.me/legend_pusu
+https://t.me/SEXYAADITYA
  
 ▢ *YouTube*
-https://youtube.com/@soft_entertain
+https://youtube.com/@aadityaff1
 
 ▢ *Instagram*
-https://instagram.com/pushkar_arjn
+https://instagram.com/aadityagangster
 
 `.trim())
-handler.help = ['gpabhi']
+handler.help = ['gpadi']
 handler.tags = ['main']
-handler.command = ['groups', 'gpabhi', 'abhigp', 'groupabhi'] 
+handler.command = ['groups', 'gpadi', 'adigp', 'groupadi'] 
 
 export default handler
