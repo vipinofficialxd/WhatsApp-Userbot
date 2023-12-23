@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['919508888129', 'LEGEND-AADITYA', true],
+  ['919628779228', 'LEGEND-VIPIN', true],
   [''],
   [''] 
 ] //Number of owners
 
-global.mods = ['919508888129'] 
-global.prems = ['919508888129']
+global.mods = ['919628779228'] 
+global.prems = ['919628779228']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -47,11 +47,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'LEGEND-AADITYA'
+global.botname = 'LEGEND-VIPIN'
 global.premium = 'true'
-global.packname = 'LEGEND-AADITYA🌹' 
-global.author = 'LEGEND AADITYA' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/aadityagangster\n' 
+global.packname = 'LEGEND-VIPIN🌹' 
+global.author = 'LEGEND VIPIN' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/notyour_vipin\n' 
 global.dygp = 'https://chat.whatsapp.com/HgO7BNg85Qb59mNGD2WFGd'
 global.fgsc = 'https://chat.whatsapp.com/EIX0ozZ7Tv24NEX43KKOGW' 
 global.fgyt = 'https://youtube.com/@aadityaff1'
