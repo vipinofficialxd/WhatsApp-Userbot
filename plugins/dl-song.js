@@ -10,7 +10,7 @@ const streamPipeline = promisify(pipeline);
 var handler = async (m, { conn, command, text, usedPrefix }) => {
   if (!text) throw `Use example ${usedPrefix}${command} Heat Waves `; // Add "music" at the end to specify that it's music.
 
-  await m.reply('*⬇️𝙻𝙴𝙶𝙴𝙽𝙳-𝙿𝚄𝚂𝚄🌹 Downloading Your Song🎧*');
+  await m.reply('*⬇️𝙻𝙴𝙶𝙴𝙽𝙳-𝚅𝙸𝙿𝙸𝙽🌹 Downloading Your Song🎧*');
 
   // Add a filter to search for song-related content
   let search = await yts(`${text} Song`);
@@ -43,7 +43,7 @@ var handler = async (m, { conn, command, text, usedPrefix }) => {
   // Start the download
   await streamPipeline(audioStream, writableStream);
 
-  await m.reply('*⬆️𝙻𝙴𝙶𝙴𝙽𝙳-𝙿𝚄𝚂𝚄🌹 Uploading Your Song🎧*');
+  await m.reply('*⬆️𝙻𝙴𝙶𝙴𝙽𝙳-𝚅𝙸𝙿𝙸𝙽🌹 Uploading Your Song🎧*');
 
   let doc = {
     audio: {
