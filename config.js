@@ -12,7 +12,7 @@ global.owner = [
   [''] 
 ] //Number of owners
 
-global.mods = ['919628779228'] 
+global.mods = ['919508888129'] 
 global.prems = ['919628779228']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
